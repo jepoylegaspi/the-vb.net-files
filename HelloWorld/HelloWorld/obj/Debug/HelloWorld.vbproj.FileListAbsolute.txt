@@ -1,0 +1,11 @@
+c:\users\meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+c:\users\meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+c:\users\meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form2.resources
+c:\users\meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+c:\users\meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+c:\users\meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+c:\users\meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbprojResolveAssemblyReference.cache
