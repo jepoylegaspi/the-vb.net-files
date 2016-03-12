@@ -1,0 +1,10 @@
+C:\Users\Meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\Meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Users\Meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\Hello_World.vbproj.GenerateResource.Cache
+C:\Users\Meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\Meljean\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Meljean\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frm_Home.resources
+C:\Users\Meljean\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.frm_HelloWorld.resources
