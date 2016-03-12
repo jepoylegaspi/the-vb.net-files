@@ -1,0 +1,13 @@
+c:\users\meljean\documents\visual studio 2013\Projects\vbNetTestApp\vbNetTestApp\bin\Debug\vbNetTestApp.exe
+c:\users\meljean\documents\visual studio 2013\Projects\vbNetTestApp\vbNetTestApp\bin\Debug\vbNetTestApp.pdb
+c:\users\meljean\documents\visual studio 2013\Projects\vbNetTestApp\vbNetTestApp\bin\Debug\vbNetTestApp.xml
+c:\users\meljean\documents\visual studio 2013\Projects\vbNetTestApp\vbNetTestApp\obj\Debug\vbNetTestApp.Form1.resources
+c:\users\meljean\documents\visual studio 2013\Projects\vbNetTestApp\vbNetTestApp\obj\Debug\vbNetTestApp.Resources.resources
+c:\users\meljean\documents\visual studio 2013\Projects\vbNetTestApp\vbNetTestApp\obj\Debug\vbNetTestApp.vbproj.GenerateResource.Cache
+c:\users\meljean\documents\visual studio 2013\Projects\vbNetTestApp\vbNetTestApp\obj\Debug\vbNetTestApp.exe
+c:\users\meljean\documents\visual studio 2013\Projects\vbNetTestApp\vbNetTestApp\obj\Debug\vbNetTestApp.xml
+c:\users\meljean\documents\visual studio 2013\Projects\vbNetTestApp\vbNetTestApp\obj\Debug\vbNetTestApp.pdb
+C:\Users\Meljean\documents\visual studio 2013\Projects\vbNetTestApp\vbNetTestApp\obj\Debug\vbNetTestApp.vbprojResolveAssemblyReference.cache
+C:\Users\Meljean\Documents\Visual Studio 2013\Projects\vbNetApp\vbNetTestApp\obj\Debug\vbNetTestApp.exe
+C:\Users\Meljean\Documents\Visual Studio 2013\Projects\vbNetApp\vbNetTestApp\obj\Debug\vbNetTestApp.xml
+C:\Users\Meljean\Documents\Visual Studio 2013\Projects\vbNetApp\vbNetTestApp\obj\Debug\vbNetTestApp.pdb
